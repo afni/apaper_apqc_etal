@@ -21,3 +21,10 @@ The primary processing is contained in the scripts/ directory:
   do_20_ap.tcsh   : run afni_proc.py to perform full single subject
                     processing on task-based FMRI data
 
+-----------------------------------------------------------------------
+
+The dataset accompanying these scripts and the reference draft is
+located for public download here: https://osf.io/un56d/ .
+
+This dataset is actually the same subject used in the standard AFNI
+Bootcamp courses (AFNI_data6/FT_analysis/FT).
